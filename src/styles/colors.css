@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Primary Colors */
+  --primary-50: #f0f9ff;
+  --primary-100: #e0f2fe;
+  --primary-500: #3b82f6;
+  --primary-900: #1e3a8a;
+  
+  /* Neutral Colors */
+  --gray-50: #f9fafb;
+  --gray-100: #f3f4f6;
+  --gray-500: #6b7280;
+  --gray-900: #111827;
+  
+  /* Semantic Colors */
+  --success-500: #10b981;
+  --error-500: #ef4444;
+  --warning-500: #f59e0b;
+  --info-500: #3b82f6;
+}
